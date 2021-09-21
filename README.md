@@ -1,6 +1,6 @@
-# Bitcoin Whitepaper Exercises
+# Bitcoin Whitepaper Exercises - This is keivan's version
 
-In these exercises, you will learn about blockchains from the perspective of the [original Bitcoin Whitepaper](https://bitcoin.org/en/bitcoin-paper).
+In these exercises, you will learn about blich ockchains from the perspective of the [original Bitcoin Whitepaper](https://bitcoin.org/en/bitcoin-paper).
 
 * [Hashing](hashing/README.md)
 * [Transactions](transactions/README.md)
