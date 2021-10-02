@@ -34,6 +34,6 @@ Each block should be checked for the following:
 * `index` must be an integer >= `0`
 * the `hash` must match what recomputing the hash with `blockHash(..)` produces
 
-In addition to verifying a block, the linkage between one block and its previous block must be checked, throughout the whole chain. That is, the block at position 4 needs to have a `prevHash` equal to the `hash` of the block at position `3`, and so on.
+In addition to verifying a block, the linkage between one block and its previous block must be checked, throughout the whole chain. That is, the block at position `4` needs to have a `prevHash` equal to the `hash` of the block at position `3`, and so on.
 
 Print out verification that the blockchain is valid after having added all the poem text as blocks.
